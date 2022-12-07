@@ -7,3 +7,4 @@ task 4- last lines
 task 5- first lines
 task 6- third line
 task 7- file
+task 8- cwd content
