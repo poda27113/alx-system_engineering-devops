@@ -9,3 +9,4 @@ task 6- third line
 task 7- file
 task 8- cwd content
 task 9- dublication
+task 10- 10-no js
