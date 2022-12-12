@@ -24,3 +24,4 @@ task 21- reverse
 task 22- users and homes
 task 100- empty cakes
 task 101- gifs
+task 102- spelling name
