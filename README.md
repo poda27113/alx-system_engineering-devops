@@ -15,4 +15,7 @@ task 12- new files
 task 13- unique
 task 14- find root
 task 15- count words
-task 16- what next  
+task 16- what next
+task 17- hidethisword
+task 18- letteronly
+task 19- AZ
