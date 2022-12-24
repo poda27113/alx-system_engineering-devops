@@ -9,3 +9,4 @@ tasks 7- everybody
 tasks 8- James Bond
 tasks 9- johh doe
 tasks 10- mirrior
+tasks 11- directories permission
