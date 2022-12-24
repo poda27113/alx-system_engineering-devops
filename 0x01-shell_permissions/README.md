@@ -12,3 +12,4 @@ tasks 10- mirrior
 tasks 11- directories permission
 tasks 12- directory permission
 tasks 13- change group
+tasks 14- change owner and group
