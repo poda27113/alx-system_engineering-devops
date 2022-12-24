@@ -14,3 +14,4 @@ task 12- file type
 task 13- symbolic link 
 task 14- copy
 task 15- let move 
+task 16- clean emac
