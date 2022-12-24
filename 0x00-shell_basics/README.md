@@ -12,3 +12,4 @@ task 10-back
 task 11- list
 task 12- file type
 task 13- symbolic link 
+task 14- copy 
