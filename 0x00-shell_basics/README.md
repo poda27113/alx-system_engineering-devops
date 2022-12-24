@@ -8,4 +8,5 @@ task 6- craete directory
 task 7- moving file
 task 8- first delete
 task 9- first directory delete
-task 10-back  
+task 10-back
+task 11- list
