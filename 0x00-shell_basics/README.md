@@ -10,3 +10,4 @@ task 8- first delete
 task 9- first directory delete
 task 10-back
 task 11- list
+task 12- file type 
