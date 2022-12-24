@@ -5,3 +5,4 @@ tasks 3- new owner
 task 4- empty
 tasks 5- execution
 tasks 6- multiple permission
+tasks 7- everybody
