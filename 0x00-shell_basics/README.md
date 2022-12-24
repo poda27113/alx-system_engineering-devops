@@ -1,19 +1,20 @@
 task 0- current working directory
 task 1- list
-task 2- bring me home
-task 3- list files
-task 4- list more files
-task 5- list files digit only  
-task 6- craete directory
-task 7- moving file
-task 8- first delete
-task 9- first directory delete
-task 10-back
-task 11- list
-task 12- file type
-task 13- symbolic link 
-task 14- copy
-task 15- let move 
-task 16- clean emac
-task 17- tree
-task 18- commas 
+tasks 2- bring me home
+tasks 3- list files
+tasks 4- list more files
+tasks 5- list files digit only  
+tasks 6- craete directory
+tasks 7- moving file
+tasks 8- first delete
+tasks 9- first directory delete
+tasks 10-back
+tasks 11- list
+tasks 12- file type
+tasks 13- symbolic link 
+tasks 14- copy
+tasks 15- let move 
+tasks 16- clean emac
+tasks 17- tree
+tasks 18- commas 
+tasks 19- school 
