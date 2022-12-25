@@ -10,3 +10,4 @@ taask 8- true knoweledge
 tasks 9- divid & rules
 tasks 10- love exponent
 task 11- binary 
+tasks 12- combination
