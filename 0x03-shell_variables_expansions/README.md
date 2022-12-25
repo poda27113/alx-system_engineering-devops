@@ -15,3 +15,4 @@ tasks 13- print float
 tasks 14- decimal-to - hexadecimal.
 tasks 15- encoding and decoding of text
 tasks 16- wriring first lines
+tasks 17- water and stir
