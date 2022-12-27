@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp poda hello
+chgrp school hello
