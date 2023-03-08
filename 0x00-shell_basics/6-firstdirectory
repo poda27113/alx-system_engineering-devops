@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-mkdir /tmp/my_first_directory/
-=======
-mkdir /tmp/poda\
->>>>>>> b72fa96e1ba3a92a010fd8d1aea7067919940fd8
+cd tmp
+mkdir my_first_directory
